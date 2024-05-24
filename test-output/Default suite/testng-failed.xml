@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.MobileElementsWithGuestures.LocatorsDemo">
+      <class name="com.MobileScenarios.KeyEventTest">
         <methods>
-          <include name="testLocators"/>
+          <include name="testMobileKeywboard"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- com.MobileElementsWithGuestures.LocatorsDemo -->
+      </class> <!-- com.MobileScenarios.KeyEventTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
