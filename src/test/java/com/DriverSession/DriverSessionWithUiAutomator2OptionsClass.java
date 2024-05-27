@@ -5,6 +5,8 @@ import java.net.URL;
 
 import org.testng.annotations.Test;
 
+import com.Utility.Util;
+
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.options.UiAutomator2Options;
@@ -26,6 +28,7 @@ public class DriverSessionWithUiAutomator2OptionsClass {
 	  AppiumDriver driver=new AndroidDriver(url,options);
 	  System.out.println("Sesssion id is: "+driver.getSessionId());
 	  
+	  Util.getScreenshot(driver);
 	  
 	  
 	  

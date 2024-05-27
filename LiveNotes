@@ -17,3 +17,10 @@ In Appium we use AppiumBy class to get the locator
 Mobile Gestures
 ===================
 https://github.com/appium/appium-uiautomator2-driver/blob/2d02006eaf1e5a62acfbc36a5bc5a9ea271cf7cd/docs/android-mobile-gestures.md
+
+
+Get the Performance data
+=============================
+https://appium.readthedocs.io/en/latest/en/commands/device/performance-data/get-performance-data/
+
+

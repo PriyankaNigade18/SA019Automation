@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-24T22:20:11 IST" name="Default suite" finished-at="2024-05-24T22:20:23 IST" duration-ms="11965">
+  <suite started-at="2024-05-27T21:39:29 IST" name="Default suite" finished-at="2024-05-27T21:39:54 IST" duration-ms="25120">
     <groups>
     </groups>
-    <test started-at="2024-05-24T22:20:11 IST" name="Default test" finished-at="2024-05-24T22:20:23 IST" duration-ms="11965">
-      <class name="com.MobileScenarios.TestNotifications">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.MobileScenarios.TestNotifications@36916eb0]" started-at="2024-05-24T22:20:11 IST" name="setUp" finished-at="2024-05-24T22:20:23 IST" duration-ms="11198" status="PASS">
+    <test started-at="2024-05-27T21:39:29 IST" name="Default test" finished-at="2024-05-27T21:39:54 IST" duration-ms="25120">
+      <class name="com.MobileScenarios.WorkingWithApplication">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.MobileScenarios.WorkingWithApplication@36916eb0]" started-at="2024-05-27T21:39:29 IST" name="setUp" finished-at="2024-05-27T21:39:40 IST" duration-ms="11086" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testNotifications()[pri:0, instance:com.MobileScenarios.TestNotifications@36916eb0]" started-at="2024-05-24T22:20:23 IST" name="testNotifications" finished-at="2024-05-24T22:20:23 IST" duration-ms="711" status="PASS">
+        <test-method signature="testApp()[pri:0, instance:com.MobileScenarios.WorkingWithApplication@36916eb0]" started-at="2024-05-27T21:39:40 IST" name="testApp" finished-at="2024-05-27T21:39:54 IST" duration-ms="13911" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testNotifications -->
-      </class> <!-- com.MobileScenarios.TestNotifications -->
+        </test-method> <!-- testApp -->
+      </class> <!-- com.MobileScenarios.WorkingWithApplication -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
